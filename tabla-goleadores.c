@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// Definir una estructura para almacenar la información de un jugador "struct Jugador"
+// definir una estructura para almacenar la información de un jugador "struct Jugador"
 
 
 /* Definir una Funciónn "cargarDatosjugador" para la carga de los datos
